@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="" name="nsc_api_01">
+    <webMethodsTestCase description="Generate a Test Wizard" name="TC_nsc_api_01">
+        <mock folder="NSC_API_01.adpaters" lifetime="suite" name="select_test01">
+            <pipeline filename="resources/select_jdbc_sample_data.xml"/>
+        </mock>
+        <service folder="NSC_API_01.serv" name="nsc_api_01">
+            <input>
+                <file filename="ns/NSC_API_01/serv/nsc_api_01/NSC_API_01_serv_nsc_api_01_input.xml"/>
+            </input>
+            <expected>
+                <file filename="ns/NSC_API_01/serv/nsc_api_01/NSC_API_01_serv_nsc_api_01_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>

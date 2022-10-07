@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.util.Values">
+    <value name="resultCode">S</value>
+    <value name="resultMsg">성공</value>
+    <array name="searchResults" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYFIhVr8AAAfGbiz</value>
+        <value name="searchField02">Demo1-PetStore-findByStatus</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYGyA8TcAAofGbjl</value>
+        <value name="searchField02">NSC-API-03-API03</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYFCL5zMAAEfGbgi</value>
+        <value name="searchField02">TEST_0001</value>
+        <value name="searchField03">0100</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYGkJ8EcAAAfGbjl</value>
+        <value name="searchField02">NSC_API_01-API01</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-5_8wAACoHyg9</value>
+        <value name="searchField02">DEV_003</value>
+        <value name="searchField03">0200</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy0N</value>
+        <value name="searchField02">ABD28</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy12</value>
+        <value name="searchField02">ABD07</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy15</value>
+        <value name="searchField02">ABD11</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy16</value>
+        <value name="searchField02">ABD12</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy1O</value>
+        <value name="searchField02">ABD03</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy1p</value>
+        <value name="searchField02">ABD16</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy1X</value>
+        <value name="searchField02">ABD26</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy2X</value>
+        <value name="searchField02">ABD36</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy30</value>
+        <value name="searchField02">ABD21</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy31</value>
+        <value name="searchField02">ABD22</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy32</value>
+        <value name="searchField02">ABD13</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy35</value>
+        <value name="searchField02">ABD23</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy36</value>
+        <value name="searchField02">ABD24</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy37</value>
+        <value name="searchField02">ABD25</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy3a</value>
+        <value name="searchField02">ABD15</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy3D</value>
+        <value name="searchField02">AUTH01</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy3K</value>
+        <value name="searchField02">ABD06</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy3N</value>
+        <value name="searchField02">ABD02</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy3p</value>
+        <value name="searchField02">ABD14</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy3Q</value>
+        <value name="searchField02">ABD01</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy3S</value>
+        <value name="searchField02">ABD05</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy3U</value>
+        <value name="searchField02">ABD04</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy40</value>
+        <value name="searchField02">ABD31</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy41</value>
+        <value name="searchField02">ABD32</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy45</value>
+        <value name="searchField02">ABD33</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy46</value>
+        <value name="searchField02">ABD34</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy47</value>
+        <value name="searchField02">ABD35</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy50</value>
+        <value name="searchField02">ABD41</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy51</value>
+        <value name="searchField02">ABD42</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy55</value>
+        <value name="searchField02">ABD43</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy56</value>
+        <value name="searchField02">ABD44</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy57</value>
+        <value name="searchField02">ABD45</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy61</value>
+        <value name="searchField02">ABD27</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy66</value>
+        <value name="searchField02">ABD08</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy68</value>
+        <value name="searchField02">ABD17</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy71</value>
+        <value name="searchField02">ABD37</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy99</value>
+        <value name="searchField02">ABD09</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHy9o</value>
+        <value name="searchField02">ABD18</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHyE1</value>
+        <value name="searchField02">ABD20</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHyE8</value>
+        <value name="searchField02">ABD29</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHyEb</value>
+        <value name="searchField02">ABD40</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHyEI</value>
+        <value name="searchField02">ABD30</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHyEs</value>
+        <value name="searchField02">ABD19</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHyEW</value>
+        <value name="searchField02">ABD10</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHyg5</value>
+        <value name="searchField02">TEST01</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHyg9</value>
+        <value name="searchField02">DEV_002</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7AFQAAKoHyw8</value>
+        <value name="searchField02">ABD39</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-7jigAAOoHyg9</value>
+        <value name="searchField02">DEV_05</value>
+        <value name="searchField03">0100</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYF-8EewAASoHyg9</value>
+        <value name="searchField02">LPG_ERROR</value>
+        <value name="searchField03">0100</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYGTG6GgAACoHygY</value>
+        <value name="searchField02">GOLD_0041</value>
+        <value name="searchField03">0400</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYGTJ0IgAAGoHygY</value>
+        <value name="searchField02">TB0043</value>
+        <value name="searchField03">0400</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYGTNN0AAAKoHygY</value>
+        <value name="searchField02">MASS BITCoin</value>
+        <value name="searchField03">0100</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYM-_2KAAAGoHyLx</value>
+        <value name="searchField02">Mass_Data03</value>
+        <value name="searchField03">0300</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYM-_rSAAACoHyLx</value>
+        <value name="searchField02">MASS_Date_Test</value>
+        <value name="searchField03">0100</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYM5x4oAAACoHyJ3</value>
+        <value name="searchField02">test06</value>
+        <value name="searchField03">0100</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYM5yDbQAAGoHyJ3</value>
+        <value name="searchField02">test007</value>
+        <value name="searchField03">0200</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYNT3jJQAAKoHyLe</value>
+        <value name="searchField02">aync_data</value>
+        <value name="searchField03">0100</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYNTS7MwAAGoHyLe</value>
+        <value name="searchField02">test005</value>
+        <value name="searchField03">0200</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="searchField01">AYNTSwCAAACoHyLe</value>
+        <value name="searchField02">data004</value>
+        <value name="searchField03">0100</value>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>
