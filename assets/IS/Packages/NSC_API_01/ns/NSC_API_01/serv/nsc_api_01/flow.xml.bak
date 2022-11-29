@@ -667,10 +667,6 @@
 <MAPCOPY FROM="/select_test01Output;2;0/results;2;1/SERVICE_GROUP;1;0" TO="/searchResults;2;1/searchField03;1;0">
 </MAPCOPY>
 </MAP>
-
-<MAP TIMEOUT="" MODE="STANDALONE">
-  <COMMENT></COMMENT>
-</MAP>
 </SEQUENCE>
 
 <SEQUENCE TIMEOUT="" EXIT-ON="FAILURE" FORM="CATCH">
