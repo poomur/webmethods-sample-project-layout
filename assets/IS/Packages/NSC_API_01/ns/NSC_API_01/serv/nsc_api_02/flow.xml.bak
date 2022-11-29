@@ -765,7 +765,7 @@
   <array name="xml" type="value" depth="1">
     <value>resultCode</value>
     <value>resultMsg</value>
-    <value>searchResults</value>
+    <value>Results</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
